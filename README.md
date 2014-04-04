@@ -1,4 +1,4 @@
-# Overview
+# Overview (example)
 
 Ghost is an Open Source application which allows you to write
 and publish your own blog, giving you the tools to make it easy
